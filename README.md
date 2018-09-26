@@ -1,4 +1,4 @@
-# aws-solution-architect
+# AWS Solution Architect
 # Key Items to know before taking AWS SA Exam:
 ---------------------------------------------------------
 1. How to configure and troubleshoot a VPC inside and out, including basic IP subnetting. 
